@@ -2,9 +2,16 @@
 
 
 
-.main_contener{
-  background-image: url(/public/bgimage1.png);
+ 
+.pg{
+  color: blue;
 }
-
+.container{
+  background-image: url("/bg2.jpg");
+    height: 1000px;
+  width : 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 
 
